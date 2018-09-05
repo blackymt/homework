@@ -31,7 +31,7 @@
 
 ### 利用したアセット一覧
 Cartoon Town and Farm　　　　　
-http://u3d.as/7uY
+https://assetstore.unity.com/packages/3d/environments/cartoon-town-and-farm-17254
 
 BGM：頑張った今日
 https://maoudamashii.jokersounds.com/archives/bgm_maoudamashii_acoustic47.html
